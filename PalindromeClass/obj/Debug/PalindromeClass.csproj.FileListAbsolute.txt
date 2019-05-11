@@ -1,0 +1,6 @@
+C:\CC7\HW\HW12\Palindrome\PalindromeClass\bin\Debug\PalindromeClass.dll
+C:\CC7\HW\HW12\Palindrome\PalindromeClass\bin\Debug\PalindromeClass.pdb
+C:\CC7\HW\HW12\Palindrome\PalindromeClass\obj\Debug\PalindromeClass.csprojAssemblyReference.cache
+C:\CC7\HW\HW12\Palindrome\PalindromeClass\obj\Debug\PalindromeClass.csproj.CoreCompileInputs.cache
+C:\CC7\HW\HW12\Palindrome\PalindromeClass\obj\Debug\PalindromeClass.dll
+C:\CC7\HW\HW12\Palindrome\PalindromeClass\obj\Debug\PalindromeClass.pdb
